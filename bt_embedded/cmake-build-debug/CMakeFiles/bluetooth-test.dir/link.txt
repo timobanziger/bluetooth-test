@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bluetooth-test.dir/main.cpp.o  -o bluetooth-test  /usr/lib/x86_64-linux-gnu/libbluetooth.so 

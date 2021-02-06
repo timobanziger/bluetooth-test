@@ -1,0 +1,3 @@
+/home/timo/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/timo/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timo/CLionProjects/untitled/cmake-build-debug/CMakeFiles/bluetooth-test.dir
